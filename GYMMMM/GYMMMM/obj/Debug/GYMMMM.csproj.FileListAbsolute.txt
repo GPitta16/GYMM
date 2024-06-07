@@ -1,0 +1,14 @@
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\bin\Debug\GYMMMM.exe.config
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\bin\Debug\GYMMMM.exe
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\bin\Debug\GYMMMM.pdb
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\bin\Debug\MaterialSkin.dll
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.csproj.AssemblyReference.cache
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.Form1.resources
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.Properties.Resources.resources
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.csproj.GenerateResource.cache
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.csproj.CoreCompileInputs.cache
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.csproj.CopyComplete
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.exe
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.pdb
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.Form2.resources
+C:\Users\Bryham\source\repos\GYMMMM\GYMMMM\obj\Debug\GYMMMM.Form3.resources
